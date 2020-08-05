@@ -2,7 +2,10 @@
 
 ![dispensing path k factor](./imgs/kfactor.gif)
 
-[[_TOC_]]
+* [Intro](#intro)
+* [Research](#research)
+* [Solution](#solution)
+* [Code](#code)
 
 ## Intro
 
